@@ -1,1 +1,1 @@
-# Register-for-a-course
+# 수강신청 
